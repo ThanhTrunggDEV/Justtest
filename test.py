@@ -24,4 +24,6 @@ def main():
     print(Employee.age)
     Employee.sayhi()
     employ.sayhi()
+    print("Hello")
+
 main()
