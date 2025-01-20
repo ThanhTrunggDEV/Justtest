@@ -22,8 +22,9 @@ def main():
     employ.age = 20
     print(employ.age)
     print(Employee.age)
-    Employee.sayhi()
-
+    '''
+    conflict mat tieu roi :v
+   '''
 
 
 main()
