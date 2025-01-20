@@ -23,7 +23,7 @@ def main():
     print(employ.age)
     print(Employee.age)
     Employee.sayhi()
-    employ.sayhi()
+
 
 
 main()
